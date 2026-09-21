@@ -311,7 +311,8 @@ class FileLoader(LifeguardUtils):
 
 
 # DatalistToFiles.download_lifeguard_rescue_yt_channel()
-DatalistToFiles.create_videos_and_frames()
+if __name__ == "__main__":
+    DatalistToFiles.create_videos_and_frames()
 # DatalistToFiles.remove_entry('zufy4aBEY_00-00-08--00-01-11_0-27--0-34--0-65')
 
 # DataListToSplitlists.split_data(0, ['zuZIfy4aBEY_00-00-08--00-01-11_0-27--0-34--0-65',
