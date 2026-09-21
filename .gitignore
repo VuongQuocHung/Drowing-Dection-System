@@ -1,0 +1,15 @@
+*.pt
+*.pth
+*.pkl
+*.pyc
+__pycache__
+det_results
+.vscode
+.venv
+.python-version
+dataset_lifeguard/videos_source/
+dataset_lifeguard/videos/
+dataset_lifeguard/frames/
+temp
+models/yowo/yowo.py
+lifeguard-training-data-kaggle.zip

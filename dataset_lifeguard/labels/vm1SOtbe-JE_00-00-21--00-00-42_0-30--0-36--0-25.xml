@@ -1,0 +1,2671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>157</id>
+      <name>vm1SOtbe-JE_00-00-21--00-00-42_0-30--0-36--0-25.webm</name>
+      <size>654</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-07-04 11:43:29.893074+00:00</created>
+      <updated>2023-07-07 08:53:06.272747+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>653</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>340</id>
+          <start>0</start>
+          <stop>653</stop>
+          <url>http://localhost:8080/api/jobs/340</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>django</username>
+        <email>d.ncklsr@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>swim</name>
+          <color>#ff00cc</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>drown</name>
+          <color>#fafa37</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <original_size>
+        <width>224</width>
+        <height>224</height>
+      </original_size>
+      <source>vm1SOtbe-JE_00-00-21--00-00-42_0-30--0-36--0-25.webm</source>
+    </task>
+    <dumped>2023-07-11 22:36:41.334678+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_000000" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="56.10" xbr="58.80" ybr="142.45" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_000001" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="56.38" xbr="58.73" ybr="139.29" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_000002" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="56.66" xbr="58.67" ybr="136.13" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_000003" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="56.94" xbr="58.60" ybr="132.98" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_000004" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="57.22" xbr="58.53" ybr="129.82" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame_000005" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="57.50" xbr="58.47" ybr="126.66" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_000006" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="57.78" xbr="58.40" ybr="123.50" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="frame_000007" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="1.87" ytl="54.73" xbr="60.30" ybr="124.10" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame_000008" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="3.73" ytl="51.69" xbr="62.20" ybr="124.70" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="frame_000009" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="5.60" ytl="48.64" xbr="64.10" ybr="125.30" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="frame_000010" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.47" ytl="45.59" xbr="66.00" ybr="125.90" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="frame_000011" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.33" ytl="42.55" xbr="67.90" ybr="126.50" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="frame_000012" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.20" ytl="39.50" xbr="69.80" ybr="127.10" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="frame_000013" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="12.33" ytl="45.22" xbr="69.95" ybr="125.17" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="frame_000014" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="13.47" ytl="50.93" xbr="70.10" ybr="123.23" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame_000015" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="14.60" ytl="56.65" xbr="70.25" ybr="121.30" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame_000016" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.73" ytl="62.37" xbr="70.40" ybr="119.37" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="frame_000017" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="16.87" ytl="68.08" xbr="70.55" ybr="117.43" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="frame_000018" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.00" ytl="73.80" xbr="70.70" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame_000019" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.32" ytl="74.42" xbr="70.34" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="frame_000020" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.63" ytl="75.03" xbr="69.98" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="frame_000021" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.95" ytl="75.65" xbr="69.62" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="frame_000022" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.27" ytl="76.27" xbr="69.26" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="frame_000023" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.58" ytl="76.88" xbr="68.90" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="frame_000024" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.90" ytl="77.50" xbr="68.54" ybr="115.50" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame_000025" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.85" ytl="78.94" xbr="71.35" ybr="116.85" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame_000026" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.80" ytl="80.38" xbr="74.16" ybr="118.20" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="frame_000027" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.76" ytl="81.82" xbr="76.97" ybr="119.55" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="frame_000028" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.71" ytl="83.26" xbr="79.78" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="frame_000029" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.66" ytl="84.70" xbr="82.59" ybr="122.25" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="frame_000030" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.61" ytl="86.14" xbr="85.40" ybr="123.60" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="frame_000031" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.69" ytl="88.06" xbr="84.08" ybr="124.97" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="frame_000032" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.77" ytl="89.98" xbr="82.77" ybr="126.33" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="frame_000033" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.85" ytl="91.90" xbr="81.45" ybr="127.70" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="frame_000034" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.93" ytl="93.82" xbr="80.13" ybr="129.07" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="frame_000035" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.01" ytl="95.74" xbr="78.82" ybr="130.43" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="frame_000036" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.09" ytl="97.66" xbr="77.50" ybr="131.80" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="frame_000037" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.33" ytl="98.38" xbr="78.42" ybr="132.52" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="frame_000038" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.57" ytl="99.10" xbr="79.33" ybr="133.23" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="frame_000039" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.81" ytl="99.82" xbr="80.25" ybr="133.95" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="frame_000040" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.05" ytl="100.54" xbr="81.17" ybr="134.67" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="frame_000041" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.29" ytl="101.26" xbr="82.08" ybr="135.38" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="frame_000042" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.53" ytl="101.98" xbr="83.00" ybr="136.10" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="frame_000043" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.34" ytl="102.73" xbr="82.83" ybr="135.27" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="frame_000044" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.15" ytl="103.49" xbr="82.67" ybr="134.43" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="frame_000045" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.96" ytl="104.24" xbr="82.50" ybr="133.60" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="frame_000046" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.76" ytl="104.99" xbr="82.33" ybr="132.77" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="frame_000047" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.57" ytl="105.75" xbr="82.17" ybr="131.93" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="frame_000048" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.38" ytl="106.50" xbr="82.00" ybr="131.10" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="frame_000049" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.55" ytl="105.53" xbr="85.41" ybr="130.27" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="frame_000050" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.72" ytl="104.56" xbr="88.81" ybr="129.43" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="frame_000051" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.89" ytl="103.59" xbr="92.22" ybr="128.60" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="frame_000052" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.06" ytl="102.62" xbr="95.62" ybr="127.77" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="frame_000053" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.23" ytl="101.66" xbr="99.03" ybr="126.93" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="frame_000054" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.40" ytl="100.69" xbr="102.43" ybr="126.10" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="frame_000055" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.33" ytl="100.26" xbr="101.22" ybr="128.08" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="frame_000056" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.27" ytl="99.82" xbr="100.00" ybr="130.07" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="frame_000057" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.20" ytl="99.39" xbr="98.78" ybr="132.05" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="frame_000058" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.13" ytl="98.96" xbr="97.57" ybr="134.03" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="frame_000059" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.07" ytl="98.53" xbr="96.35" ybr="136.02" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="frame_000060" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.00" ytl="98.10" xbr="95.14" ybr="138.00" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="frame_000061" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.72" ytl="92.96" xbr="96.00" ybr="139.13" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="frame_000062" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.43" ytl="87.82" xbr="96.86" ybr="140.27" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="frame_000063" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.15" ytl="82.69" xbr="97.72" ybr="141.40" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="frame_000064" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.87" ytl="77.55" xbr="98.58" ybr="142.53" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="frame_000065" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.58" ytl="72.42" xbr="99.44" ybr="143.67" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="frame_000066" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.30" ytl="67.28" xbr="100.30" ybr="144.80" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="frame_000067" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.80" ytl="67.33" xbr="100.42" ybr="146.00" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="frame_000068" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.30" ytl="67.38" xbr="100.53" ybr="147.20" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="frame_000069" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.80" ytl="67.42" xbr="100.65" ybr="148.40" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="frame_000070" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.30" ytl="67.47" xbr="100.77" ybr="149.60" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="frame_000071" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.80" ytl="67.52" xbr="100.88" ybr="150.80" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="frame_000072" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.30" ytl="67.57" xbr="101.00" ybr="152.00" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="frame_000073" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.46" ytl="68.07" xbr="100.28" ybr="151.83" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="frame_000074" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.62" ytl="68.57" xbr="99.57" ybr="151.67" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="frame_000075" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.78" ytl="69.08" xbr="98.85" ybr="151.50" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="frame_000076" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.94" ytl="69.58" xbr="98.13" ybr="151.33" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="frame_000077" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.10" ytl="70.09" xbr="97.42" ybr="151.17" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="frame_000078" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.26" ytl="70.59" xbr="96.70" ybr="151.00" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="frame_000079" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.82" ytl="71.24" xbr="97.25" ybr="150.40" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="frame_000080" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.38" ytl="71.89" xbr="97.80" ybr="149.80" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="frame_000081" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.94" ytl="72.54" xbr="98.35" ybr="149.20" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="frame_000082" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.50" ytl="73.18" xbr="98.90" ybr="148.60" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="frame_000083" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.06" ytl="73.83" xbr="99.45" ybr="148.00" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="frame_000084" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.62" ytl="74.48" xbr="100.00" ybr="147.40" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="frame_000085" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.16" ytl="74.55" xbr="100.86" ybr="147.80" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="frame_000086" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.71" ytl="74.62" xbr="101.73" ybr="148.20" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="frame_000087" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.26" ytl="74.70" xbr="102.59" ybr="148.60" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="frame_000088" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.81" ytl="74.77" xbr="103.46" ybr="149.00" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="frame_000089" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.35" ytl="74.84" xbr="104.32" ybr="149.40" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="frame_000090" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.90" ytl="74.91" xbr="105.19" ybr="149.80" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="frame_000091" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.50" ytl="74.11" xbr="106.07" ybr="149.18" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="frame_000092" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.10" ytl="73.31" xbr="106.96" ybr="148.55" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="frame_000093" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.70" ytl="72.51" xbr="107.84" ybr="147.93" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="frame_000094" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.30" ytl="71.70" xbr="108.73" ybr="147.30" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="frame_000095" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.90" ytl="70.90" xbr="109.61" ybr="146.68" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="frame_000096" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.50" ytl="70.10" xbr="110.50" ybr="146.06" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="frame_000097" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.92" ytl="69.81" xbr="109.72" ybr="144.65" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="frame_000098" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.35" ytl="69.52" xbr="108.93" ybr="143.24" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="frame_000099" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.77" ytl="69.24" xbr="108.15" ybr="141.83" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="frame_000100" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.20" ytl="68.95" xbr="107.37" ybr="140.42" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="frame_000101" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.62" ytl="68.66" xbr="106.58" ybr="139.01" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="frame_000102" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.04" ytl="68.37" xbr="105.80" ybr="137.60" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="frame_000103" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.83" ytl="68.69" xbr="107.97" ybr="135.78" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="frame_000104" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.62" ytl="69.01" xbr="110.13" ybr="133.97" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="frame_000105" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="53.40" ytl="69.32" xbr="112.30" ybr="132.15" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="frame_000106" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.19" ytl="69.64" xbr="114.47" ybr="130.33" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="frame_000107" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="56.97" ytl="69.96" xbr="116.63" ybr="128.52" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="frame_000108" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="58.76" ytl="70.27" xbr="118.80" ybr="126.70" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="frame_000109" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="54.91" ytl="70.37" xbr="120.05" ybr="127.08" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="frame_000110" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.06" ytl="70.47" xbr="121.30" ybr="127.47" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="frame_000111" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.21" ytl="70.57" xbr="122.55" ybr="127.85" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="frame_000112" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.36" ytl="70.67" xbr="123.80" ybr="128.23" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="frame_000113" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.51" ytl="70.77" xbr="125.05" ybr="128.62" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="frame_000114" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.66" ytl="70.87" xbr="126.30" ybr="129.00" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="frame_000115" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.20" ytl="71.25" xbr="125.67" ybr="128.28" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="frame_000116" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.75" ytl="71.62" xbr="125.03" ybr="127.57" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="frame_000117" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.29" ytl="72.00" xbr="124.40" ybr="126.85" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="frame_000118" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="21.84" ytl="72.37" xbr="123.77" ybr="126.13" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="frame_000119" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.38" ytl="72.74" xbr="123.13" ybr="125.42" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="frame_000120" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="14.92" ytl="73.12" xbr="122.50" ybr="124.70" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="frame_000121" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="13.63" ytl="72.93" xbr="121.52" ybr="124.27" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="frame_000122" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="12.33" ytl="72.74" xbr="120.53" ybr="123.83" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="frame_000123" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.04" ytl="72.54" xbr="119.55" ybr="123.40" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="frame_000124" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.74" ytl="72.35" xbr="118.57" ybr="122.97" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="frame_000125" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="8.44" ytl="72.16" xbr="117.58" ybr="122.53" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="frame_000126" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.15" ytl="71.97" xbr="116.60" ybr="122.10" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="frame_000127" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.31" ytl="69.30" xbr="116.53" ybr="122.43" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="frame_000128" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.47" ytl="66.64" xbr="116.46" ybr="122.77" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="frame_000129" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="13.63" ytl="63.97" xbr="116.38" ybr="123.10" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="frame_000130" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.79" ytl="61.31" xbr="116.31" ybr="123.44" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="frame_000131" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.95" ytl="58.65" xbr="116.24" ybr="123.77" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="frame_000132" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="20.11" ytl="55.98" xbr="116.17" ybr="124.11" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="frame_000133" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.19" ytl="58.26" xbr="121.64" ybr="124.56" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="frame_000134" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.27" ytl="60.54" xbr="127.11" ybr="125.01" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="frame_000135" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.35" ytl="62.82" xbr="132.58" ybr="125.45" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="frame_000136" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.43" ytl="65.10" xbr="138.06" ybr="125.90" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="frame_000137" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.51" ytl="67.38" xbr="143.53" ybr="126.35" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="frame_000138" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="62.59" ytl="69.66" xbr="149.00" ybr="126.80" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="frame_000139" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="62.37" ytl="69.13" xbr="152.28" ybr="125.15" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="frame_000140" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="62.16" ytl="68.61" xbr="155.57" ybr="123.50" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="frame_000141" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="61.94" ytl="68.08" xbr="158.85" ybr="121.85" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="frame_000142" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="61.72" ytl="67.55" xbr="162.13" ybr="120.20" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="frame_000143" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="61.51" ytl="67.02" xbr="165.42" ybr="118.55" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="frame_000144" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="61.29" ytl="66.49" xbr="168.70" ybr="116.90" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="frame_000145" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="60.45" ytl="64.89" xbr="162.77" ybr="114.95" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="frame_000146" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="59.61" ytl="63.28" xbr="156.83" ybr="113.00" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="frame_000147" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="58.77" ytl="61.67" xbr="150.90" ybr="111.05" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="frame_000148" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.93" ytl="60.06" xbr="144.97" ybr="109.10" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="frame_000149" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.09" ytl="58.45" xbr="139.03" ybr="107.15" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="frame_000150" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="56.25" ytl="56.85" xbr="133.10" ybr="105.20" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="frame_000151" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.53" ytl="56.61" xbr="131.08" ybr="105.47" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="frame_000152" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="54.81" ytl="56.37" xbr="129.07" ybr="105.73" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="frame_000153" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="54.09" ytl="56.13" xbr="127.05" ybr="106.00" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="frame_000154" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="53.37" ytl="55.89" xbr="125.03" ybr="106.27" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="frame_000155" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="52.65" ytl="55.65" xbr="123.02" ybr="106.53" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="frame_000156" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.93" ytl="55.41" xbr="121.00" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="frame_000157" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.62" ytl="56.37" xbr="123.38" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="frame_000158" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.31" ytl="57.33" xbr="125.77" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="frame_000159" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.00" ytl="58.29" xbr="128.15" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="frame_000160" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.68" ytl="59.25" xbr="130.53" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="frame_000161" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.37" ytl="60.21" xbr="132.92" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="frame_000162" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.06" ytl="61.17" xbr="135.30" ybr="106.80" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="frame_000163" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.52" ytl="62.80" xbr="135.53" ybr="107.17" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="frame_000164" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.99" ytl="64.43" xbr="135.77" ybr="107.53" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="frame_000165" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.45" ytl="66.06" xbr="136.00" ybr="107.90" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="frame_000166" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.92" ytl="67.69" xbr="136.23" ybr="108.27" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="frame_000167" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.38" ytl="69.33" xbr="136.47" ybr="108.63" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="frame_000168" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.84" ytl="70.96" xbr="136.70" ybr="109.00" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="frame_000169" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.04" ytl="70.96" xbr="136.92" ybr="109.12" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="frame_000170" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.23" ytl="70.96" xbr="137.13" ybr="109.23" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="frame_000171" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.42" ytl="70.96" xbr="137.35" ybr="109.35" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="frame_000172" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.61" ytl="70.96" xbr="137.57" ybr="109.47" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="frame_000173" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="3.81" ytl="70.96" xbr="137.78" ybr="109.58" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="frame_000174" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="70.96" xbr="138.00" ybr="109.70" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="frame_000175" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="67.21" xbr="147.00" ybr="108.90" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="frame_000176" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="63.47" xbr="156.00" ybr="108.10" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="frame_000177" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="59.73" xbr="165.00" ybr="107.30" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="frame_000178" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="55.99" xbr="174.00" ybr="106.50" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="frame_000179" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="52.24" xbr="183.00" ybr="105.70" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="frame_000180" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="48.50" xbr="192.00" ybr="104.90" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="frame_000181" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.22" ytl="51.44" xbr="195.12" ybr="106.18" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="frame_000182" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="14.45" ytl="54.38" xbr="198.23" ybr="107.47" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="frame_000183" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="21.67" ytl="57.31" xbr="201.35" ybr="108.75" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="frame_000184" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.89" ytl="60.25" xbr="204.47" ybr="110.03" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="frame_000185" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.11" ytl="63.19" xbr="207.58" ybr="111.32" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="frame_000186" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.34" ytl="66.12" xbr="210.70" ybr="112.60" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="frame_000187" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.13" ytl="68.61" xbr="203.07" ybr="112.08" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="frame_000188" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.92" ytl="71.10" xbr="195.43" ybr="111.57" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="frame_000189" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.72" ytl="73.59" xbr="187.80" ybr="111.05" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="frame_000190" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.51" ytl="76.08" xbr="180.17" ybr="110.53" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="frame_000191" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.30" ytl="78.57" xbr="172.53" ybr="110.02" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="frame_000192" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.09" ytl="81.05" xbr="164.90" ybr="109.50" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="frame_000193" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.34" ytl="81.57" xbr="164.80" ybr="110.85" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="frame_000194" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.58" ytl="82.09" xbr="164.70" ybr="112.20" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="frame_000195" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.82" ytl="82.61" xbr="164.60" ybr="113.55" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="frame_000196" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.06" ytl="83.13" xbr="164.50" ybr="114.90" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="frame_000197" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.30" ytl="83.65" xbr="164.40" ybr="116.25" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="frame_000198" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.55" ytl="84.17" xbr="164.30" ybr="117.60" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="frame_000199" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.41" ytl="84.17" xbr="168.62" ybr="118.33" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="frame_000200" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.27" ytl="84.17" xbr="172.93" ybr="119.07" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="frame_000201" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.13" ytl="84.17" xbr="177.25" ybr="119.80" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="frame_000202" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.99" ytl="84.17" xbr="181.57" ybr="120.53" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="frame_000203" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.86" ytl="84.17" xbr="185.88" ybr="121.27" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="frame_000204" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.72" ytl="84.17" xbr="190.20" ybr="122.00" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="frame_000205" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.75" ytl="84.20" xbr="195.83" ybr="120.27" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="frame_000206" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.78" ytl="84.24" xbr="201.47" ybr="118.53" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="frame_000207" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.81" ytl="84.27" xbr="207.10" ybr="116.80" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="frame_000208" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.84" ytl="84.30" xbr="212.73" ybr="115.07" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="frame_000209" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.87" ytl="84.34" xbr="218.37" ybr="113.33" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="frame_000210" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.90" ytl="84.37" xbr="224.00" ybr="111.60" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="frame_000211" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.65" ytl="82.29" xbr="219.58" ybr="111.84" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="frame_000212" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.41" ytl="80.22" xbr="215.17" ybr="112.08" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="frame_000213" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.17" ytl="78.14" xbr="210.75" ybr="112.33" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="frame_000214" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.93" ytl="76.06" xbr="206.33" ybr="112.57" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="frame_000215" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.69" ytl="73.98" xbr="201.92" ybr="112.81" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="frame_000216" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.45" ytl="71.90" xbr="197.50" ybr="113.05" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="frame_000217" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.38" ytl="71.55" xbr="198.12" ybr="112.81" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="frame_000218" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.31" ytl="71.20" xbr="198.73" ybr="112.57" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="frame_000219" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.25" ytl="70.85" xbr="199.35" ybr="112.33" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="frame_000220" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.18" ytl="70.50" xbr="199.97" ybr="112.08" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="frame_000221" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.11" ytl="70.15" xbr="200.58" ybr="111.84" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="frame_000222" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.04" ytl="69.80" xbr="201.20" ybr="111.60" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="frame_000223" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.87" ytl="72.70" xbr="198.85" ybr="112.98" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="frame_000224" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.70" ytl="75.60" xbr="196.50" ybr="114.37" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="frame_000225" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.52" ytl="78.50" xbr="194.15" ybr="115.75" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="frame_000226" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.35" ytl="81.40" xbr="191.80" ybr="117.13" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="frame_000227" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.17" ytl="84.30" xbr="189.45" ybr="118.52" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="frame_000228" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.00" ytl="87.20" xbr="187.10" ybr="119.90" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="frame_000229" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.10" ytl="87.48" xbr="180.98" ybr="119.13" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="frame_000230" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.20" ytl="87.75" xbr="174.87" ybr="118.37" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="frame_000231" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.30" ytl="88.03" xbr="168.75" ybr="117.60" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="frame_000232" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.41" ytl="88.31" xbr="162.63" ybr="116.83" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="frame_000233" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.51" ytl="88.58" xbr="156.52" ybr="116.07" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="frame_000234" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.61" ytl="88.86" xbr="150.40" ybr="115.30" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="frame_000235" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.61" ytl="89.38" xbr="149.85" ybr="114.92" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="frame_000236" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.60" ytl="89.90" xbr="149.30" ybr="114.53" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="frame_000237" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.60" ytl="90.41" xbr="148.75" ybr="114.15" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="frame_000238" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.60" ytl="90.93" xbr="148.20" ybr="113.77" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="frame_000239" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.60" ytl="91.45" xbr="147.65" ybr="113.38" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="frame_000240" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.60" ytl="91.97" xbr="147.10" ybr="113.00" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="frame_000241" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.87" ytl="91.90" xbr="146.62" ybr="113.80" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="frame_000242" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.15" ytl="91.83" xbr="146.13" ybr="114.60" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="frame_000243" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.43" ytl="91.76" xbr="145.65" ybr="115.40" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="frame_000244" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.71" ytl="91.69" xbr="145.17" ybr="116.20" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="frame_000245" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.99" ytl="91.62" xbr="144.68" ybr="117.00" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="frame_000246" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.27" ytl="91.55" xbr="144.20" ybr="117.80" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="frame_000247" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.44" ytl="91.28" xbr="144.30" ybr="117.87" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="frame_000248" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.61" ytl="91.00" xbr="144.40" ybr="117.93" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="frame_000249" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.78" ytl="90.72" xbr="144.50" ybr="118.00" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="frame_000250" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.95" ytl="90.45" xbr="144.60" ybr="118.07" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="frame_000251" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.12" ytl="90.17" xbr="144.70" ybr="118.13" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="frame_000252" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.29" ytl="89.89" xbr="144.80" ybr="118.20" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="frame_000253" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.78" ytl="89.90" xbr="147.15" ybr="118.62" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="frame_000254" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.26" ytl="89.90" xbr="149.50" ybr="119.03" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="frame_000255" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.75" ytl="89.90" xbr="151.85" ybr="119.45" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="frame_000256" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.23" ytl="89.90" xbr="154.20" ybr="119.87" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="frame_000257" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.71" ytl="89.90" xbr="156.55" ybr="120.28" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="frame_000258" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.20" ytl="89.90" xbr="158.90" ybr="120.70" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="frame_000259" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.82" ytl="89.52" xbr="160.22" ybr="120.73" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="frame_000260" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.44" ytl="89.14" xbr="161.53" ybr="120.77" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="frame_000261" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.06" ytl="88.76" xbr="162.85" ybr="120.80" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="frame_000262" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.68" ytl="88.38" xbr="164.17" ybr="120.83" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="frame_000263" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.30" ytl="88.00" xbr="165.48" ybr="120.87" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="frame_000264" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.92" ytl="87.62" xbr="166.80" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="frame_000265" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.54" ytl="88.10" xbr="166.93" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="frame_000266" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.15" ytl="88.59" xbr="167.07" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="frame_000267" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.77" ytl="89.07" xbr="167.20" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="frame_000268" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.39" ytl="89.55" xbr="167.33" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="frame_000269" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.01" ytl="90.04" xbr="167.47" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="frame_000270" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.62" ytl="90.52" xbr="167.60" ybr="120.90" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="frame_000271" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.42" ytl="89.97" xbr="171.75" ybr="121.03" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="frame_000272" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.22" ytl="89.41" xbr="175.90" ybr="121.17" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="frame_000273" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.01" ytl="88.86" xbr="180.05" ybr="121.30" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="frame_000274" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.81" ytl="88.31" xbr="184.20" ybr="121.43" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="frame_000275" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.60" ytl="87.75" xbr="188.35" ybr="121.57" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="frame_000276" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="52.40" ytl="87.20" xbr="192.50" ybr="121.70" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="frame_000277" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.47" ytl="88.58" xbr="186.67" ybr="121.22" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="frame_000278" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.53" ytl="89.96" xbr="180.83" ybr="120.73" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="frame_000279" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.60" ytl="91.35" xbr="175.00" ybr="120.25" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="frame_000280" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.67" ytl="92.73" xbr="169.17" ybr="119.77" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="frame_000281" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.73" ytl="94.11" xbr="163.33" ybr="119.28" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="frame_000282" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.80" ytl="95.49" xbr="157.50" ybr="118.80" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="frame_000283" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.35" ytl="95.25" xbr="159.53" ybr="118.28" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="frame_000284" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.90" ytl="95.01" xbr="161.57" ybr="117.77" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="frame_000285" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.45" ytl="94.77" xbr="163.60" ybr="117.25" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="frame_000286" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.00" ytl="94.53" xbr="165.63" ybr="116.73" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="frame_000287" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.55" ytl="94.28" xbr="167.67" ybr="116.22" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="frame_000288" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.10" ytl="94.04" xbr="169.70" ybr="115.70" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="frame_000289" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.85" ytl="93.63" xbr="168.48" ybr="116.22" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="frame_000290" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.59" ytl="93.21" xbr="167.27" ybr="116.73" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="frame_000291" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.34" ytl="92.80" xbr="166.05" ybr="117.25" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="frame_000292" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.08" ytl="92.38" xbr="164.83" ybr="117.77" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="frame_000293" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.83" ytl="91.97" xbr="163.62" ybr="118.28" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="frame_000294" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="6.57" ytl="91.55" xbr="162.40" ybr="118.80" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="frame_000295" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="8.13" ytl="91.87" xbr="163.37" ybr="119.11" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="frame_000296" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.68" ytl="92.18" xbr="164.34" ybr="119.42" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="frame_000297" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.24" ytl="92.49" xbr="165.31" ybr="119.73" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="frame_000298" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="12.79" ytl="92.80" xbr="166.28" ybr="120.04" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="frame_000299" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="14.35" ytl="93.11" xbr="167.25" ybr="120.36" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="frame_000300" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.90" ytl="93.42" xbr="168.23" ybr="120.67" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="frame_000301" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.60" ytl="93.15" xbr="174.65" ybr="120.81" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="frame_000302" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.29" ytl="92.88" xbr="181.08" ybr="120.94" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="frame_000303" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="20.98" ytl="92.61" xbr="187.51" ybr="121.08" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="frame_000304" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.68" ytl="92.34" xbr="193.94" ybr="121.22" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="frame_000305" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="24.37" ytl="92.07" xbr="200.37" ybr="121.36" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="frame_000306" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.06" ytl="91.80" xbr="206.80" ybr="121.50" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="frame_000307" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.45" ytl="90.62" xbr="209.32" ybr="120.94" z_order="0">
+    </box>
+  </image>
+  <image id="308" name="frame_000308" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.84" ytl="89.43" xbr="211.83" ybr="120.39" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="frame_000309" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.23" ytl="88.25" xbr="214.35" ybr="119.84" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="frame_000310" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.62" ytl="87.07" xbr="216.87" ybr="119.28" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="frame_000311" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.01" ytl="85.88" xbr="219.38" ybr="118.73" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="frame_000312" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.40" ytl="84.70" xbr="221.90" ybr="118.18" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="frame_000313" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.09" ytl="85.70" xbr="211.85" ybr="119.60" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="frame_000314" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.78" ytl="86.70" xbr="201.80" ybr="121.02" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="frame_000315" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.47" ytl="87.71" xbr="191.75" ybr="122.44" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="frame_000316" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.16" ytl="88.71" xbr="181.70" ybr="123.86" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="frame_000317" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.86" ytl="89.71" xbr="171.65" ybr="125.28" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="frame_000318" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.55" ytl="90.71" xbr="161.60" ybr="126.70" z_order="0">
+    </box>
+  </image>
+  <image id="319" name="frame_000319" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="52.86" ytl="91.06" xbr="167.58" ybr="127.05" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="frame_000320" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.18" ytl="91.41" xbr="173.57" ybr="127.40" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="frame_000321" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.49" ytl="91.76" xbr="179.55" ybr="127.75" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="frame_000322" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="59.81" ytl="92.10" xbr="185.53" ybr="128.10" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="frame_000323" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="62.12" ytl="92.45" xbr="191.52" ybr="128.45" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="frame_000324" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="64.44" ytl="92.80" xbr="197.50" ybr="128.80" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="frame_000325" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="62.05" ytl="93.45" xbr="190.28" ybr="128.45" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="frame_000326" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="59.66" ytl="94.10" xbr="183.07" ybr="128.10" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="frame_000327" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.27" ytl="94.75" xbr="175.85" ybr="127.75" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="frame_000328" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="54.88" ytl="95.40" xbr="168.63" ybr="127.40" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="frame_000329" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="52.49" ytl="96.05" xbr="161.42" ybr="127.05" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="frame_000330" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.10" ytl="96.70" xbr="154.20" ybr="126.70" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="frame_000331" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.58" ytl="95.57" xbr="150.78" ybr="127.38" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="frame_000332" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.05" ytl="94.43" xbr="147.37" ybr="128.07" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="frame_000333" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.53" ytl="93.30" xbr="143.95" ybr="128.75" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="frame_000334" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.01" ytl="92.17" xbr="140.53" ybr="129.43" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="frame_000335" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.48" ytl="91.03" xbr="137.12" ybr="130.12" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="frame_000336" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.96" ytl="89.90" xbr="133.70" ybr="130.80" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="frame_000337" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.14" ytl="88.41" xbr="134.38" ybr="129.90" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="frame_000338" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.31" ytl="86.93" xbr="135.07" ybr="129.00" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="frame_000339" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.49" ytl="85.44" xbr="135.75" ybr="128.10" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="frame_000340" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.66" ytl="83.96" xbr="136.43" ybr="127.20" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="frame_000341" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.84" ytl="82.47" xbr="137.12" ybr="126.30" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="frame_000342" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.01" ytl="80.98" xbr="137.80" ybr="125.40" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="frame_000343" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.50" ytl="80.88" xbr="140.88" ybr="125.02" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="frame_000344" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.99" ytl="80.77" xbr="143.97" ybr="124.63" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="frame_000345" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="52.48" ytl="80.67" xbr="147.05" ybr="124.25" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="frame_000346" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.97" ytl="80.57" xbr="150.13" ybr="123.87" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="frame_000347" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="59.46" ytl="80.46" xbr="153.22" ybr="123.48" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="frame_000348" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="62.96" ytl="80.36" xbr="156.30" ybr="123.10" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="frame_000349" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="61.05" ytl="80.26" xbr="150.77" ybr="123.55" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="frame_000350" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="59.15" ytl="80.15" xbr="145.23" ybr="124.00" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="frame_000351" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.25" ytl="80.05" xbr="139.70" ybr="124.45" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="frame_000352" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.35" ytl="79.95" xbr="134.17" ybr="124.90" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="frame_000353" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="53.45" ytl="79.84" xbr="128.63" ybr="125.35" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="frame_000354" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.55" ytl="79.74" xbr="123.10" ybr="125.80" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="frame_000355" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.86" ytl="76.93" xbr="122.68" ybr="125.27" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="frame_000356" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.17" ytl="74.13" xbr="122.27" ybr="124.73" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="frame_000357" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="49.48" ytl="71.32" xbr="121.85" ybr="124.20" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="frame_000358" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.78" ytl="68.51" xbr="121.43" ybr="123.67" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="frame_000359" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.09" ytl="65.71" xbr="121.02" ybr="123.13" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="frame_000360" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.40" ytl="62.90" xbr="120.60" ybr="122.60" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="frame_000361" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.12" ytl="61.23" xbr="122.82" ybr="121.63" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="frame_000362" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.83" ytl="59.57" xbr="125.03" ybr="120.67" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="frame_000363" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.55" ytl="57.90" xbr="127.25" ybr="119.70" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="frame_000364" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.27" ytl="56.23" xbr="129.47" ybr="118.73" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="frame_000365" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.98" ytl="54.57" xbr="131.68" ybr="117.77" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="frame_000366" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.70" ytl="52.90" xbr="133.90" ybr="116.80" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="frame_000367" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.29" ytl="50.72" xbr="133.07" ybr="117.77" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="frame_000368" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.88" ytl="48.55" xbr="132.23" ybr="118.73" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="frame_000369" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.47" ytl="46.37" xbr="131.40" ybr="119.70" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="frame_000370" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.06" ytl="44.19" xbr="130.57" ybr="120.67" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="frame_000371" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.65" ytl="42.01" xbr="129.73" ybr="121.63" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="frame_000372" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.24" ytl="39.84" xbr="128.90" ybr="122.60" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="frame_000373" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.57" ytl="39.49" xbr="128.48" ybr="120.93" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="frame_000374" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.89" ytl="39.14" xbr="128.07" ybr="119.27" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="frame_000375" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="59.22" ytl="38.80" xbr="127.65" ybr="117.60" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="frame_000376" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="66.55" ytl="38.45" xbr="127.23" ybr="115.93" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="frame_000377" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="73.87" ytl="38.11" xbr="126.82" ybr="114.27" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="frame_000378" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.20" ytl="37.76" xbr="126.40" ybr="112.60" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="frame_000379" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.17" ytl="38.42" xbr="127.30" ybr="111.32" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="frame_000380" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.13" ytl="39.07" xbr="128.20" ybr="110.03" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="frame_000381" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.10" ytl="39.73" xbr="129.10" ybr="108.75" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="frame_000382" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.06" ytl="40.39" xbr="130.00" ybr="107.47" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="frame_000383" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.03" ytl="41.04" xbr="130.90" ybr="106.18" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="frame_000384" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="80.99" ytl="41.70" xbr="131.80" ybr="104.90" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="frame_000385" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.17" ytl="42.84" xbr="131.18" ybr="104.42" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="frame_000386" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.34" ytl="43.98" xbr="130.57" ybr="103.93" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="frame_000387" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.51" ytl="45.12" xbr="129.95" ybr="103.45" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="frame_000388" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.68" ytl="46.26" xbr="129.33" ybr="102.97" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="frame_000389" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.86" ytl="47.40" xbr="128.72" ybr="102.48" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="frame_000390" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="82.03" ytl="48.54" xbr="128.10" ybr="102.00" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="frame_000391" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="82.54" ytl="50.17" xbr="127.52" ybr="101.48" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="frame_000392" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="83.05" ytl="51.79" xbr="126.93" ybr="100.97" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="frame_000393" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="83.56" ytl="53.42" xbr="126.35" ybr="100.45" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="frame_000394" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="84.08" ytl="55.04" xbr="125.77" ybr="99.93" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="frame_000395" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="84.59" ytl="56.66" xbr="125.18" ybr="99.42" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="frame_000396" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="85.10" ytl="58.29" xbr="124.60" ybr="98.90" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="frame_000397" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="85.86" ytl="60.36" xbr="125.67" ybr="98.00" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="frame_000398" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="86.62" ytl="62.43" xbr="126.73" ybr="97.10" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="frame_000399" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="87.38" ytl="64.50" xbr="127.80" ybr="96.20" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="frame_000400" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="88.14" ytl="66.56" xbr="128.87" ybr="95.30" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="frame_000401" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="88.90" ytl="68.63" xbr="129.93" ybr="94.40" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="frame_000402" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="89.66" ytl="70.70" xbr="131.00" ybr="93.50" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="frame_000403" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="81.78" ytl="70.60" xbr="131.38" ybr="93.67" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="frame_000404" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="73.90" ytl="70.50" xbr="131.77" ybr="93.85" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="frame_000405" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="66.02" ytl="70.40" xbr="132.15" ybr="94.02" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="frame_000406" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="58.14" ytl="70.30" xbr="132.53" ybr="94.19" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="frame_000407" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.26" ytl="70.20" xbr="132.92" ybr="94.37" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="frame_000408" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.38" ytl="70.10" xbr="133.30" ybr="94.54" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="frame_000409" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.87" ytl="67.82" xbr="130.98" ybr="95.58" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="frame_000410" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="51.36" ytl="65.54" xbr="128.67" ybr="96.63" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="frame_000411" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.84" ytl="63.26" xbr="126.35" ybr="97.67" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="frame_000412" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="60.33" ytl="60.98" xbr="124.03" ybr="98.71" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="frame_000413" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="64.81" ytl="58.70" xbr="121.72" ybr="99.76" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="frame_000414" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="69.30" ytl="56.41" xbr="119.40" ybr="100.80" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="frame_000415" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="71.20" ytl="54.44" xbr="119.23" ybr="100.73" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="frame_000416" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="73.10" ytl="52.48" xbr="119.07" ybr="100.67" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="frame_000417" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="75.00" ytl="50.51" xbr="118.90" ybr="100.60" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="frame_000418" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.90" ytl="48.54" xbr="118.73" ybr="100.53" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="frame_000419" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="78.80" ytl="46.57" xbr="118.57" ybr="100.47" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="frame_000420" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="80.70" ytl="44.60" xbr="118.40" ybr="100.40" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="frame_000421" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="79.87" ytl="44.01" xbr="119.05" ybr="101.78" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="frame_000422" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="79.04" ytl="43.42" xbr="119.70" ybr="103.17" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="frame_000423" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="78.21" ytl="42.84" xbr="120.35" ybr="104.55" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="frame_000424" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="77.38" ytl="42.25" xbr="121.00" ybr="105.93" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="frame_000425" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.55" ytl="41.66" xbr="121.65" ybr="107.32" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="frame_000426" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="75.72" ytl="41.07" xbr="122.30" ybr="108.70" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="frame_000427" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="71.82" ytl="41.52" xbr="122.85" ybr="107.22" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="frame_000428" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="67.91" ytl="41.97" xbr="123.40" ybr="105.73" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="frame_000429" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="64.01" ytl="42.42" xbr="123.95" ybr="104.25" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="frame_000430" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="60.10" ytl="42.87" xbr="124.50" ybr="102.77" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="frame_000431" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="56.20" ytl="43.32" xbr="125.05" ybr="101.28" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="frame_000432" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="52.29" ytl="43.77" xbr="125.60" ybr="99.80" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="frame_000433" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.87" ytl="45.60" xbr="124.08" ybr="100.22" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="frame_000434" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.45" ytl="47.43" xbr="122.57" ybr="100.63" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="frame_000435" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.02" ytl="49.26" xbr="121.05" ybr="101.05" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="frame_000436" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.60" ytl="51.10" xbr="119.53" ybr="101.47" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="frame_000437" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.18" ytl="52.93" xbr="118.02" ybr="101.88" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="frame_000438" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.75" ytl="54.76" xbr="116.50" ybr="102.30" z_order="0">
+    </box>
+  </image>
+  <image id="439" name="frame_000439" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.89" ytl="56.35" xbr="117.40" ybr="102.85" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="frame_000440" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.03" ytl="57.94" xbr="118.30" ybr="103.40" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="frame_000441" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.17" ytl="59.53" xbr="119.20" ybr="103.95" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="frame_000442" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.31" ytl="61.12" xbr="120.10" ybr="104.50" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="frame_000443" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.45" ytl="62.71" xbr="121.00" ybr="105.05" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="frame_000444" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="64.30" xbr="121.90" ybr="105.60" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="frame_000445" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="63.85" xbr="121.45" ybr="105.39" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="frame_000446" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="63.40" xbr="121.00" ybr="105.19" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="frame_000447" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="62.95" xbr="120.55" ybr="104.98" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="frame_000448" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="62.50" xbr="120.10" ybr="104.77" z_order="0">
+    </box>
+  </image>
+  <image id="449" name="frame_000449" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="62.05" xbr="119.65" ybr="104.56" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="frame_000450" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.59" ytl="61.60" xbr="119.20" ybr="104.36" z_order="0">
+    </box>
+  </image>
+  <image id="451" name="frame_000451" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.53" ytl="62.63" xbr="119.82" ybr="105.39" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="frame_000452" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.46" ytl="63.67" xbr="120.43" ybr="106.43" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="frame_000453" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.39" ytl="64.70" xbr="121.05" ybr="107.47" z_order="0">
+    </box>
+  </image>
+  <image id="454" name="frame_000454" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.33" ytl="65.73" xbr="121.67" ybr="108.50" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="frame_000455" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.26" ytl="66.77" xbr="122.28" ybr="109.54" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="frame_000456" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.19" ytl="67.80" xbr="122.90" ybr="110.58" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="frame_000457" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.48" ytl="65.52" xbr="122.12" ybr="110.00" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="frame_000458" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.77" ytl="63.23" xbr="121.33" ybr="109.42" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="frame_000459" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.06" ytl="60.95" xbr="120.55" ybr="108.84" z_order="0">
+    </box>
+  </image>
+  <image id="460" name="frame_000460" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="63.35" ytl="58.67" xbr="119.77" ybr="108.26" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="frame_000461" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="69.64" ytl="56.38" xbr="118.98" ybr="107.68" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="frame_000462" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="75.93" ytl="54.10" xbr="118.20" ybr="107.10" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="frame_000463" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.00" ytl="52.99" xbr="118.78" ybr="108.87" z_order="0">
+    </box>
+  </image>
+  <image id="464" name="frame_000464" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.07" ytl="51.89" xbr="119.37" ybr="110.63" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="frame_000465" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.14" ytl="50.78" xbr="119.95" ybr="112.40" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="frame_000466" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.21" ytl="49.68" xbr="120.53" ybr="114.17" z_order="0">
+    </box>
+  </image>
+  <image id="467" name="frame_000467" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.27" ytl="48.57" xbr="121.12" ybr="115.93" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="frame_000468" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="76.34" ytl="47.46" xbr="121.70" ybr="117.70" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="frame_000469" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="71.95" ytl="47.64" xbr="122.28" ybr="119.53" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="frame_000470" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="67.57" ytl="47.81" xbr="122.87" ybr="121.37" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="frame_000471" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="63.18" ytl="47.98" xbr="123.45" ybr="123.20" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="frame_000472" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="58.79" ytl="48.15" xbr="124.03" ybr="125.03" z_order="0">
+    </box>
+  </image>
+  <image id="473" name="frame_000473" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="54.40" ytl="48.33" xbr="124.62" ybr="126.87" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="frame_000474" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.01" ytl="48.50" xbr="125.20" ybr="128.70" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="frame_000475" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.10" ytl="49.23" xbr="125.55" ybr="126.77" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="frame_000476" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.20" ytl="49.95" xbr="125.90" ybr="124.83" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="frame_000477" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.29" ytl="50.68" xbr="126.25" ybr="122.90" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="frame_000478" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.39" ytl="51.40" xbr="126.60" ybr="120.97" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="frame_000479" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.48" ytl="52.13" xbr="126.95" ybr="119.03" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="frame_000480" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.58" ytl="52.86" xbr="127.30" ybr="117.10" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="frame_000481" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.27" ytl="53.16" xbr="129.82" ybr="117.03" z_order="0">
+    </box>
+  </image>
+  <image id="482" name="frame_000482" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.97" ytl="53.47" xbr="132.33" ybr="116.97" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="frame_000483" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.67" ytl="53.78" xbr="134.85" ybr="116.90" z_order="0">
+    </box>
+  </image>
+  <image id="484" name="frame_000484" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.36" ytl="54.08" xbr="137.37" ybr="116.83" z_order="0">
+    </box>
+  </image>
+  <image id="485" name="frame_000485" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.06" ytl="54.39" xbr="139.88" ybr="116.77" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="frame_000486" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.75" ytl="54.70" xbr="142.40" ybr="116.70" z_order="0">
+    </box>
+  </image>
+  <image id="487" name="frame_000487" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.38" ytl="55.08" xbr="139.22" ybr="117.00" z_order="0">
+    </box>
+  </image>
+  <image id="488" name="frame_000488" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.00" ytl="55.46" xbr="136.03" ybr="117.30" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="frame_000489" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="53.63" ytl="55.84" xbr="132.85" ybr="117.60" z_order="0">
+    </box>
+  </image>
+  <image id="490" name="frame_000490" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.25" ytl="56.22" xbr="129.67" ybr="117.90" z_order="0">
+    </box>
+  </image>
+  <image id="491" name="frame_000491" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="60.88" ytl="56.60" xbr="126.48" ybr="118.20" z_order="0">
+    </box>
+  </image>
+  <image id="492" name="frame_000492" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="64.50" ytl="56.98" xbr="123.30" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="493" name="frame_000493" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="63.01" ytl="57.71" xbr="123.20" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="494" name="frame_000494" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="61.53" ytl="58.43" xbr="123.10" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="495" name="frame_000495" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="60.04" ytl="59.16" xbr="123.00" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="496" name="frame_000496" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="58.56" ytl="59.88" xbr="122.90" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="497" name="frame_000497" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="57.07" ytl="60.61" xbr="122.80" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="498" name="frame_000498" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="55.58" ytl="61.34" xbr="122.70" ybr="118.50" z_order="0">
+    </box>
+  </image>
+  <image id="499" name="frame_000499" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="58.11" ytl="62.86" xbr="122.53" ybr="120.40" z_order="0">
+    </box>
+  </image>
+  <image id="500" name="frame_000500" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="60.63" ytl="64.39" xbr="122.37" ybr="122.30" z_order="0">
+    </box>
+  </image>
+  <image id="501" name="frame_000501" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="63.15" ytl="65.92" xbr="122.20" ybr="124.20" z_order="0">
+    </box>
+  </image>
+  <image id="502" name="frame_000502" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="65.68" ytl="67.45" xbr="122.03" ybr="126.10" z_order="0">
+    </box>
+  </image>
+  <image id="503" name="frame_000503" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="68.20" ytl="68.97" xbr="121.87" ybr="128.00" z_order="0">
+    </box>
+  </image>
+  <image id="504" name="frame_000504" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="70.72" ytl="70.50" xbr="121.70" ybr="129.90" z_order="0">
+    </box>
+  </image>
+  <image id="505" name="frame_000505" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="63.47" ytl="70.63" xbr="120.90" ybr="129.32" z_order="0">
+    </box>
+  </image>
+  <image id="506" name="frame_000506" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="56.21" ytl="70.77" xbr="120.10" ybr="128.73" z_order="0">
+    </box>
+  </image>
+  <image id="507" name="frame_000507" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="48.96" ytl="70.90" xbr="119.30" ybr="128.15" z_order="0">
+    </box>
+  </image>
+  <image id="508" name="frame_000508" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.71" ytl="71.03" xbr="118.50" ybr="127.57" z_order="0">
+    </box>
+  </image>
+  <image id="509" name="frame_000509" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.45" ytl="71.17" xbr="117.70" ybr="126.98" z_order="0">
+    </box>
+  </image>
+  <image id="510" name="frame_000510" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.20" ytl="71.30" xbr="116.90" ybr="126.40" z_order="0">
+    </box>
+  </image>
+  <image id="511" name="frame_000511" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.43" ytl="69.18" xbr="117.03" ybr="123.75" z_order="0">
+    </box>
+  </image>
+  <image id="512" name="frame_000512" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="23.67" ytl="67.07" xbr="117.17" ybr="121.10" z_order="0">
+    </box>
+  </image>
+  <image id="513" name="frame_000513" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="21.90" ytl="64.95" xbr="117.30" ybr="118.45" z_order="0">
+    </box>
+  </image>
+  <image id="514" name="frame_000514" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="20.13" ytl="62.83" xbr="117.43" ybr="115.80" z_order="0">
+    </box>
+  </image>
+  <image id="515" name="frame_000515" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.37" ytl="60.72" xbr="117.57" ybr="113.15" z_order="0">
+    </box>
+  </image>
+  <image id="516" name="frame_000516" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="16.60" ytl="58.60" xbr="117.70" ybr="110.50" z_order="0">
+    </box>
+  </image>
+  <image id="517" name="frame_000517" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="18.95" ytl="61.17" xbr="119.98" ybr="110.08" z_order="0">
+    </box>
+  </image>
+  <image id="518" name="frame_000518" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="21.30" ytl="63.73" xbr="122.27" ybr="109.67" z_order="0">
+    </box>
+  </image>
+  <image id="519" name="frame_000519" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="23.65" ytl="66.30" xbr="124.55" ybr="109.25" z_order="0">
+    </box>
+  </image>
+  <image id="520" name="frame_000520" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.00" ytl="68.87" xbr="126.83" ybr="108.83" z_order="0">
+    </box>
+  </image>
+  <image id="521" name="frame_000521" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.35" ytl="71.43" xbr="129.12" ybr="108.42" z_order="0">
+    </box>
+  </image>
+  <image id="522" name="frame_000522" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.70" ytl="74.00" xbr="131.40" ybr="108.00" z_order="0">
+    </box>
+  </image>
+  <image id="523" name="frame_000523" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.50" ytl="75.80" xbr="130.57" ybr="107.65" z_order="0">
+    </box>
+  </image>
+  <image id="524" name="frame_000524" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.30" ytl="77.59" xbr="129.73" ybr="107.30" z_order="0">
+    </box>
+  </image>
+  <image id="525" name="frame_000525" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.10" ytl="79.39" xbr="128.90" ybr="106.95" z_order="0">
+    </box>
+  </image>
+  <image id="526" name="frame_000526" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.90" ytl="81.18" xbr="128.07" ybr="106.60" z_order="0">
+    </box>
+  </image>
+  <image id="527" name="frame_000527" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.70" ytl="82.98" xbr="127.23" ybr="106.25" z_order="0">
+    </box>
+  </image>
+  <image id="528" name="frame_000528" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="47.50" ytl="84.78" xbr="126.40" ybr="105.90" z_order="0">
+    </box>
+  </image>
+  <image id="529" name="frame_000529" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.67" ytl="84.33" xbr="126.78" ybr="105.87" z_order="0">
+    </box>
+  </image>
+  <image id="530" name="frame_000530" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.84" ytl="83.88" xbr="127.17" ybr="105.83" z_order="0">
+    </box>
+  </image>
+  <image id="531" name="frame_000531" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="45.01" ytl="83.43" xbr="127.55" ybr="105.80" z_order="0">
+    </box>
+  </image>
+  <image id="532" name="frame_000532" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="44.18" ytl="82.98" xbr="127.93" ybr="105.77" z_order="0">
+    </box>
+  </image>
+  <image id="533" name="frame_000533" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.35" ytl="82.53" xbr="128.32" ybr="105.73" z_order="0">
+    </box>
+  </image>
+  <image id="534" name="frame_000534" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="42.52" ytl="82.08" xbr="128.70" ybr="105.70" z_order="0">
+    </box>
+  </image>
+  <image id="535" name="frame_000535" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.76" ytl="82.08" xbr="127.60" ybr="104.83" z_order="0">
+    </box>
+  </image>
+  <image id="536" name="frame_000536" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.00" ytl="82.08" xbr="126.50" ybr="103.97" z_order="0">
+    </box>
+  </image>
+  <image id="537" name="frame_000537" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.24" ytl="82.08" xbr="125.40" ybr="103.10" z_order="0">
+    </box>
+  </image>
+  <image id="538" name="frame_000538" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.48" ytl="82.08" xbr="124.30" ybr="102.23" z_order="0">
+    </box>
+  </image>
+  <image id="539" name="frame_000539" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.72" ytl="82.08" xbr="123.20" ybr="101.37" z_order="0">
+    </box>
+  </image>
+  <image id="540" name="frame_000540" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.96" ytl="82.08" xbr="122.10" ybr="100.50" z_order="0">
+    </box>
+  </image>
+  <image id="541" name="frame_000541" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.51" ytl="81.80" xbr="130.95" ybr="102.22" z_order="0">
+    </box>
+  </image>
+  <image id="542" name="frame_000542" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.06" ytl="81.53" xbr="139.80" ybr="103.93" z_order="0">
+    </box>
+  </image>
+  <image id="543" name="frame_000543" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="39.62" ytl="81.25" xbr="148.65" ybr="105.65" z_order="0">
+    </box>
+  </image>
+  <image id="544" name="frame_000544" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.17" ytl="80.97" xbr="157.50" ybr="107.37" z_order="0">
+    </box>
+  </image>
+  <image id="545" name="frame_000545" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="40.72" ytl="80.70" xbr="166.35" ybr="109.08" z_order="0">
+    </box>
+  </image>
+  <image id="546" name="frame_000546" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.27" ytl="80.42" xbr="175.20" ybr="110.80" z_order="0">
+    </box>
+  </image>
+  <image id="547" name="frame_000547" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="38.48" ytl="80.84" xbr="168.25" ybr="110.83" z_order="0">
+    </box>
+  </image>
+  <image id="548" name="frame_000548" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.68" ytl="81.25" xbr="161.30" ybr="110.87" z_order="0">
+    </box>
+  </image>
+  <image id="549" name="frame_000549" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.89" ytl="81.67" xbr="154.35" ybr="110.90" z_order="0">
+    </box>
+  </image>
+  <image id="550" name="frame_000550" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.09" ytl="82.08" xbr="147.40" ybr="110.93" z_order="0">
+    </box>
+  </image>
+  <image id="551" name="frame_000551" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.30" ytl="82.50" xbr="140.45" ybr="110.97" z_order="0">
+    </box>
+  </image>
+  <image id="552" name="frame_000552" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="24.50" ytl="82.91" xbr="133.50" ybr="111.00" z_order="0">
+    </box>
+  </image>
+  <image id="553" name="frame_000553" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.18" ytl="82.49" xbr="143.00" ybr="112.48" z_order="0">
+    </box>
+  </image>
+  <image id="554" name="frame_000554" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.87" ytl="82.07" xbr="152.50" ybr="113.97" z_order="0">
+    </box>
+  </image>
+  <image id="555" name="frame_000555" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.55" ytl="81.66" xbr="162.00" ybr="115.45" z_order="0">
+    </box>
+  </image>
+  <image id="556" name="frame_000556" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.23" ytl="81.24" xbr="171.50" ybr="116.93" z_order="0">
+    </box>
+  </image>
+  <image id="557" name="frame_000557" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="12.92" ytl="80.82" xbr="181.00" ybr="118.42" z_order="0">
+    </box>
+  </image>
+  <image id="558" name="frame_000558" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="10.60" ytl="80.40" xbr="190.50" ybr="119.90" z_order="0">
+    </box>
+  </image>
+  <image id="559" name="frame_000559" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="13.02" ytl="79.82" xbr="193.03" ybr="117.62" z_order="0">
+    </box>
+  </image>
+  <image id="560" name="frame_000560" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.43" ytl="79.23" xbr="195.57" ybr="115.33" z_order="0">
+    </box>
+  </image>
+  <image id="561" name="frame_000561" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.85" ytl="78.65" xbr="198.10" ybr="113.05" z_order="0">
+    </box>
+  </image>
+  <image id="562" name="frame_000562" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="20.27" ytl="78.07" xbr="200.63" ybr="110.77" z_order="0">
+    </box>
+  </image>
+  <image id="563" name="frame_000563" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.68" ytl="77.48" xbr="203.17" ybr="108.48" z_order="0">
+    </box>
+  </image>
+  <image id="564" name="frame_000564" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.10" ytl="76.90" xbr="205.70" ybr="106.20" z_order="0">
+    </box>
+  </image>
+  <image id="565" name="frame_000565" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.20" ytl="76.87" xbr="204.08" ybr="106.45" z_order="0">
+    </box>
+  </image>
+  <image id="566" name="frame_000566" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.30" ytl="76.83" xbr="202.45" ybr="106.70" z_order="0">
+    </box>
+  </image>
+  <image id="567" name="frame_000567" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.40" ytl="76.80" xbr="200.83" ybr="106.95" z_order="0">
+    </box>
+  </image>
+  <image id="568" name="frame_000568" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.50" ytl="76.76" xbr="199.20" ybr="107.20" z_order="0">
+    </box>
+  </image>
+  <image id="569" name="frame_000569" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.60" ytl="76.73" xbr="197.58" ybr="107.45" z_order="0">
+    </box>
+  </image>
+  <image id="570" name="frame_000570" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.70" ytl="76.69" xbr="195.95" ybr="107.70" z_order="0">
+    </box>
+  </image>
+  <image id="571" name="frame_000571" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.32" ytl="77.45" xbr="192.49" ybr="109.22" z_order="0">
+    </box>
+  </image>
+  <image id="572" name="frame_000572" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.94" ytl="78.21" xbr="189.04" ybr="110.73" z_order="0">
+    </box>
+  </image>
+  <image id="573" name="frame_000573" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.57" ytl="78.97" xbr="185.58" ybr="112.25" z_order="0">
+    </box>
+  </image>
+  <image id="574" name="frame_000574" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.19" ytl="79.74" xbr="182.12" ybr="113.77" z_order="0">
+    </box>
+  </image>
+  <image id="575" name="frame_000575" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.81" ytl="80.50" xbr="178.66" ybr="115.28" z_order="0">
+    </box>
+  </image>
+  <image id="576" name="frame_000576" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.43" ytl="81.26" xbr="175.20" ybr="116.80" z_order="0">
+    </box>
+  </image>
+  <image id="577" name="frame_000577" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.64" ytl="82.40" xbr="175.13" ybr="115.80" z_order="0">
+    </box>
+  </image>
+  <image id="578" name="frame_000578" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.85" ytl="83.54" xbr="175.07" ybr="114.80" z_order="0">
+    </box>
+  </image>
+  <image id="579" name="frame_000579" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.06" ytl="84.68" xbr="175.00" ybr="113.80" z_order="0">
+    </box>
+  </image>
+  <image id="580" name="frame_000580" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.26" ytl="85.82" xbr="174.93" ybr="112.80" z_order="0">
+    </box>
+  </image>
+  <image id="581" name="frame_000581" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.47" ytl="86.96" xbr="174.87" ybr="111.80" z_order="0">
+    </box>
+  </image>
+  <image id="582" name="frame_000582" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.68" ytl="88.10" xbr="174.80" ybr="110.80" z_order="0">
+    </box>
+  </image>
+  <image id="583" name="frame_000583" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.54" ytl="87.41" xbr="174.93" ybr="110.12" z_order="0">
+    </box>
+  </image>
+  <image id="584" name="frame_000584" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.41" ytl="86.72" xbr="175.07" ybr="109.43" z_order="0">
+    </box>
+  </image>
+  <image id="585" name="frame_000585" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.27" ytl="86.03" xbr="175.20" ybr="108.75" z_order="0">
+    </box>
+  </image>
+  <image id="586" name="frame_000586" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.13" ytl="85.34" xbr="175.33" ybr="108.07" z_order="0">
+    </box>
+  </image>
+  <image id="587" name="frame_000587" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.00" ytl="84.64" xbr="175.47" ybr="107.38" z_order="0">
+    </box>
+  </image>
+  <image id="588" name="frame_000588" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="35.86" ytl="83.95" xbr="175.60" ybr="106.70" z_order="0">
+    </box>
+  </image>
+  <image id="589" name="frame_000589" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="34.79" ytl="83.47" xbr="172.12" ybr="107.60" z_order="0">
+    </box>
+  </image>
+  <image id="590" name="frame_000590" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.72" ytl="82.99" xbr="168.63" ybr="108.50" z_order="0">
+    </box>
+  </image>
+  <image id="591" name="frame_000591" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.65" ytl="82.50" xbr="165.15" ybr="109.40" z_order="0">
+    </box>
+  </image>
+  <image id="592" name="frame_000592" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.58" ytl="82.02" xbr="161.67" ybr="110.30" z_order="0">
+    </box>
+  </image>
+  <image id="593" name="frame_000593" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.50" ytl="81.53" xbr="158.18" ybr="111.20" z_order="0">
+    </box>
+  </image>
+  <image id="594" name="frame_000594" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.43" ytl="81.05" xbr="154.70" ybr="112.10" z_order="0">
+    </box>
+  </image>
+  <image id="595" name="frame_000595" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.02" ytl="80.84" xbr="154.45" ybr="111.78" z_order="0">
+    </box>
+  </image>
+  <image id="596" name="frame_000596" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.60" ytl="80.63" xbr="154.20" ybr="111.47" z_order="0">
+    </box>
+  </image>
+  <image id="597" name="frame_000597" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.19" ytl="80.43" xbr="153.95" ybr="111.15" z_order="0">
+    </box>
+  </image>
+  <image id="598" name="frame_000598" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.77" ytl="80.22" xbr="153.70" ybr="110.83" z_order="0">
+    </box>
+  </image>
+  <image id="599" name="frame_000599" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="27.36" ytl="80.01" xbr="153.45" ybr="110.52" z_order="0">
+    </box>
+  </image>
+  <image id="600" name="frame_000600" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="26.95" ytl="79.80" xbr="153.20" ybr="110.20" z_order="0">
+    </box>
+  </image>
+  <image id="601" name="frame_000601" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="28.09" ytl="78.18" xbr="150.02" ybr="110.65" z_order="0">
+    </box>
+  </image>
+  <image id="602" name="frame_000602" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.23" ytl="76.56" xbr="146.83" ybr="111.10" z_order="0">
+    </box>
+  </image>
+  <image id="603" name="frame_000603" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="30.37" ytl="74.93" xbr="143.65" ybr="111.55" z_order="0">
+    </box>
+  </image>
+  <image id="604" name="frame_000604" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="31.51" ytl="73.31" xbr="140.47" ybr="112.00" z_order="0">
+    </box>
+  </image>
+  <image id="605" name="frame_000605" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="32.65" ytl="71.68" xbr="137.28" ybr="112.45" z_order="0">
+    </box>
+  </image>
+  <image id="606" name="frame_000606" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.79" ytl="70.06" xbr="134.10" ybr="112.90" z_order="0">
+    </box>
+  </image>
+  <image id="607" name="frame_000607" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.30" ytl="68.30" xbr="134.10" ybr="114.15" z_order="0">
+    </box>
+  </image>
+  <image id="608" name="frame_000608" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="24.80" ytl="66.54" xbr="134.10" ybr="115.40" z_order="0">
+    </box>
+  </image>
+  <image id="609" name="frame_000609" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="20.31" ytl="64.77" xbr="134.10" ybr="116.65" z_order="0">
+    </box>
+  </image>
+  <image id="610" name="frame_000610" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.82" ytl="63.01" xbr="134.10" ybr="117.90" z_order="0">
+    </box>
+  </image>
+  <image id="611" name="frame_000611" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.33" ytl="61.25" xbr="134.10" ybr="119.15" z_order="0">
+    </box>
+  </image>
+  <image id="612" name="frame_000612" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="6.83" ytl="59.48" xbr="134.10" ybr="120.40" z_order="0">
+    </box>
+  </image>
+  <image id="613" name="frame_000613" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.21" ytl="59.04" xbr="135.68" ybr="119.98" z_order="0">
+    </box>
+  </image>
+  <image id="614" name="frame_000614" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.59" ytl="58.59" xbr="137.27" ybr="119.57" z_order="0">
+    </box>
+  </image>
+  <image id="615" name="frame_000615" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.97" ytl="58.14" xbr="138.85" ybr="119.15" z_order="0">
+    </box>
+  </image>
+  <image id="616" name="frame_000616" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="8.35" ytl="57.69" xbr="140.43" ybr="118.73" z_order="0">
+    </box>
+  </image>
+  <image id="617" name="frame_000617" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="8.74" ytl="57.25" xbr="142.02" ybr="118.32" z_order="0">
+    </box>
+  </image>
+  <image id="618" name="frame_000618" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.12" ytl="56.80" xbr="143.60" ybr="117.90" z_order="0">
+    </box>
+  </image>
+  <image id="619" name="frame_000619" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.81" ytl="56.35" xbr="143.98" ybr="117.73" z_order="0">
+    </box>
+  </image>
+  <image id="620" name="frame_000620" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="14.51" ytl="55.90" xbr="144.37" ybr="117.57" z_order="0">
+    </box>
+  </image>
+  <image id="621" name="frame_000621" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.20" ytl="55.45" xbr="144.75" ybr="117.40" z_order="0">
+    </box>
+  </image>
+  <image id="622" name="frame_000622" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="19.90" ytl="55.00" xbr="145.13" ybr="117.23" z_order="0">
+    </box>
+  </image>
+  <image id="623" name="frame_000623" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.59" ytl="54.55" xbr="145.52" ybr="117.07" z_order="0">
+    </box>
+  </image>
+  <image id="624" name="frame_000624" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="25.29" ytl="54.10" xbr="145.90" ybr="116.90" z_order="0">
+    </box>
+  </image>
+  <image id="625" name="frame_000625" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.44" ytl="54.97" xbr="145.83" ybr="117.35" z_order="0">
+    </box>
+  </image>
+  <image id="626" name="frame_000626" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="33.58" ytl="55.83" xbr="145.77" ybr="117.80" z_order="0">
+    </box>
+  </image>
+  <image id="627" name="frame_000627" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="37.73" ytl="56.70" xbr="145.70" ybr="118.25" z_order="0">
+    </box>
+  </image>
+  <image id="628" name="frame_000628" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="41.88" ytl="57.56" xbr="145.63" ybr="118.70" z_order="0">
+    </box>
+  </image>
+  <image id="629" name="frame_000629" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="46.02" ytl="58.42" xbr="145.57" ybr="119.15" z_order="0">
+    </box>
+  </image>
+  <image id="630" name="frame_000630" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="50.17" ytl="59.29" xbr="145.50" ybr="119.60" z_order="0">
+    </box>
+  </image>
+  <image id="631" name="frame_000631" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="43.36" ytl="60.43" xbr="142.05" ybr="120.43" z_order="0">
+    </box>
+  </image>
+  <image id="632" name="frame_000632" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="36.56" ytl="61.57" xbr="138.60" ybr="121.27" z_order="0">
+    </box>
+  </image>
+  <image id="633" name="frame_000633" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="29.75" ytl="62.71" xbr="135.15" ybr="122.10" z_order="0">
+    </box>
+  </image>
+  <image id="634" name="frame_000634" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="22.94" ytl="63.85" xbr="131.70" ybr="122.93" z_order="0">
+    </box>
+  </image>
+  <image id="635" name="frame_000635" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="16.13" ytl="64.99" xbr="128.25" ybr="123.77" z_order="0">
+    </box>
+  </image>
+  <image id="636" name="frame_000636" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.32" ytl="66.13" xbr="124.80" ybr="124.60" z_order="0">
+    </box>
+  </image>
+  <image id="637" name="frame_000637" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.77" ytl="66.82" xbr="128.70" ybr="123.92" z_order="0">
+    </box>
+  </image>
+  <image id="638" name="frame_000638" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="6.21" ytl="67.52" xbr="132.60" ybr="123.23" z_order="0">
+    </box>
+  </image>
+  <image id="639" name="frame_000639" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="4.66" ytl="68.21" xbr="136.50" ybr="122.55" z_order="0">
+    </box>
+  </image>
+  <image id="640" name="frame_000640" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="3.11" ytl="68.90" xbr="140.40" ybr="121.87" z_order="0">
+    </box>
+  </image>
+  <image id="641" name="frame_000641" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="1.55" ytl="69.59" xbr="144.30" ybr="121.18" z_order="0">
+    </box>
+  </image>
+  <image id="642" name="frame_000642" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="0.00" ytl="70.28" xbr="148.20" ybr="120.50" z_order="0">
+    </box>
+  </image>
+  <image id="643" name="frame_000643" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="1.87" ytl="68.75" xbr="147.55" ybr="121.43" z_order="0">
+    </box>
+  </image>
+  <image id="644" name="frame_000644" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="3.73" ytl="67.21" xbr="146.90" ybr="122.37" z_order="0">
+    </box>
+  </image>
+  <image id="645" name="frame_000645" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="5.60" ytl="65.67" xbr="146.25" ybr="123.30" z_order="0">
+    </box>
+  </image>
+  <image id="646" name="frame_000646" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="7.46" ytl="64.14" xbr="145.60" ybr="124.23" z_order="0">
+    </box>
+  </image>
+  <image id="647" name="frame_000647" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="9.33" ytl="62.60" xbr="144.95" ybr="125.17" z_order="0">
+    </box>
+  </image>
+  <image id="648" name="frame_000648" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="11.20" ytl="61.37" xbr="144.30" ybr="126.10" z_order="0">
+    </box>
+  </image>
+  <image id="649" name="frame_000649" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="12.52" ytl="59.83" xbr="140.44" ybr="124.94" z_order="0">
+    </box>
+  </image>
+  <image id="650" name="frame_000650" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="13.85" ytl="58.30" xbr="136.58" ybr="123.78" z_order="0">
+    </box>
+  </image>
+  <image id="651" name="frame_000651" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="15.18" ytl="56.76" xbr="132.72" ybr="122.62" z_order="0">
+    </box>
+  </image>
+  <image id="652" name="frame_000652" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="16.51" ytl="55.23" xbr="128.86" ybr="121.46" z_order="0">
+    </box>
+  </image>
+  <image id="653" name="frame_000653" width="224" height="224">
+    <box label="drown" source="manual" occluded="0" xtl="17.83" ytl="53.69" xbr="125.00" ybr="120.30" z_order="0">
+    </box>
+  </image>
+</annotations>

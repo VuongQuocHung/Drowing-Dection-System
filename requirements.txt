@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+thop
+matplotlib
+numpy
+pandas
+yt-dlp
