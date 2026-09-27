@@ -13,3 +13,8 @@ dataset_lifeguard/frames/
 temp
 models/yowo/yowo.py
 lifeguard-training-data-kaggle.zip
+YOWOv2_tiny_fold3_best.zip
+YOWOv2_tiny_fold3_result.zip
+outputs/
+videos/
+YOWOv2_tiny_fold3_best/

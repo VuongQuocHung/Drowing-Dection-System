@@ -176,11 +176,17 @@ def train():
             if d_cfg['mode']=='reference':
                 loss_dict = criterion(outputs, targets)
                 losses = loss_dict['losses']
-            elif d_cfg['mode']=='2D3Dseq' or d_cfg['mode']=='2Dseq' or d_cfg['mode']=='3Dseq':
-                for outputs, targets, frame_ids in zip(outputs, targets, frame_ids):
-                    loss_dict = criterion(outputs, targets)
-                    losses = loss_dict['losses']
-                    losses =+ losses
+            elif d_cfg['mode'] in ('2D3Dseq', '2Dseq', '3Dseq'):
+                step_loss_dicts = [
+                    criterion(step_outputs, step_targets)
+                    for step_outputs, step_targets in zip(outputs, targets)
+                ]
+
+                loss_dict = {
+                    key: torch.stack([item[key] for item in step_loss_dicts]).mean()
+                    for key in step_loss_dicts[0]
+                }
+                losses = loss_dict['losses']
             else:
                 raise NotImplementedError
             # CHANGES ########################################################################
