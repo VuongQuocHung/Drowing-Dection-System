@@ -69,6 +69,44 @@ This script reconstructs the dataset. It downloads the youtube videos into the *
 
 <img src="readme/cvat.png" width="700">
 
+### Generalization-oriented training
+
+The original folds split snippets independently. When several snippets come
+from one source video, this can place the same source video in both training
+and testing. Generate the additional folds 10-14 to group by the exact YouTube
+video ID while keeping the original folds 1-9 unchanged. Folds 10-14 are
+included in this repository; regenerate them after changing the labeled data:
+
+```bash
+python -m dataset_utils.create_group_folds --overwrite
+```
+
+For 2Dseq-tiny, the generalization config adds temporally synchronized
+zoom-out augmentation and reduces almost-identical sequence windows. It keeps
+the input at 224x224 for a controlled comparison:
+
+```bash
+python train.py --config 2Dseq_tiny_generalized --fold 10 --cuda
+```
+
+Use folds 10-14 for cross-validation. Compare YOWOv2 under the same split and
+augmentation with `YOWOv2_tiny_generalized`.
+
+Additional unseen videos are listed in
+`dataset_utils/generalization_candidates.csv`. Prepare the selected positive
+and hard-negative crops for CVAT with:
+
+```bash
+python -m dataset_utils.prepare_annotation_clips --download-missing
+```
+
+The generated clips are written to `videos/annotation_candidates`. Annotate
+every visible person, including normal swimmers and tube users, and export
+CVAT XML containing per-frame `<image>` elements. Do not train from automatic
+predictions without manual correction. After the reviewed XML is placed under
+`dataset_lifeguard/labels`, add the datalist row printed by the preparation
+script, rebuild frames, and regenerate folds 10-14 with `--overwrite`.
+
 
 ## Architecture
 

@@ -28,7 +28,10 @@ class LifeguardDataset_3Dseq(Dataset):
                 jitter=cfg['jitter'],
                 hue=cfg['hue'],
                 saturation=cfg['saturation'],
-                exposure=cfg['exposure']
+                exposure=cfg['exposure'],
+                zoom_out_prob=cfg.get('zoom_out_prob', 0.0),
+                zoom_out_min_scale=cfg.get('zoom_out_min_scale', 0.5),
+                zoom_out_fill=cfg.get('zoom_out_fill', 114),
             )
         elif self.mode == 'test':
             self.transform = BaseTransform(

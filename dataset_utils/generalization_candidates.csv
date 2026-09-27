@@ -1,0 +1,5 @@
+video_id,start,end,x,y,width,kind,annotation_note
+h577yj9BQ5k,00:00:04.00,00:00:13.75,0.1800,0.1000,0.6000,positive,"Victim is in pink/black at foreground-left; stop before the lifeguard jump."
+h577yj9BQ5k,00:00:04.00,00:00:13.75,0.5000,0.0500,0.6000,hard_negative,"Normal swimmers and tube users; annotate every visible person as swim."
+KFWtdO24GQo,00:00:00.00,00:00:10.25,0.6200,0.1800,0.6500,positive,"Right-side victim is partly occluded by a tube; stop before rescue splash."
+KFWtdO24GQo,00:00:00.00,00:00:10.25,0.1700,0.0700,0.6000,hard_negative,"Normal swimmers/tube users; annotate every visible person as swim."

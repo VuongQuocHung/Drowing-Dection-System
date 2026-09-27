@@ -10,12 +10,22 @@ from PIL import Image
 # only need to change for target, because format changed only from     List [T, 3, H, W] to     List [S, 3, H, W],     see LifeguardDataset_2Dseq
 
 class Augmentation(object):
-    def __init__(self, img_size=224, jitter=0.2, hue=0.1, saturation=1.5, exposure=1.5):
+    def __init__(self, img_size=224, jitter=0.2, hue=0.1, saturation=1.5,
+                 exposure=1.5, zoom_out_prob=0.0, zoom_out_min_scale=0.5,
+                 zoom_out_fill=114):
         self.img_size = img_size
         self.jitter = jitter
         self.hue = hue
         self.saturation = saturation
         self.exposure = exposure
+        self.zoom_out_prob = zoom_out_prob
+        self.zoom_out_min_scale = zoom_out_min_scale
+        self.zoom_out_fill = zoom_out_fill
+
+        if not 0.0 <= self.zoom_out_prob <= 1.0:
+            raise ValueError("zoom_out_prob must be between 0 and 1")
+        if not 0.0 < self.zoom_out_min_scale <= 1.0:
+            raise ValueError("zoom_out_min_scale must be in (0, 1]")
 
 
     def rand_scale(self, s):
@@ -81,6 +91,51 @@ class Augmentation(object):
         return cropped_clip, dx, dy, sx, sy
 
 
+    def random_zoom_out(self, video_clip):
+        """Shrink a whole temporal clip with one shared scale and offset.
+
+        The same geometry is used for every frame so motion remains coherent.
+        Returned offsets and scale are normalized to the output canvas and are
+        also applied to every target belonging to the clip.
+        """
+        if random.random() >= self.zoom_out_prob:
+            return video_clip, None
+
+        scale = random.uniform(self.zoom_out_min_scale, 1.0)
+        resized_size = max(1, min(self.img_size, round(self.img_size * scale)))
+        max_offset = self.img_size - resized_size
+        left = random.randint(0, max_offset)
+        top = random.randint(0, max_offset)
+
+        zoomed_clip = []
+        for image in video_clip:
+            resized = image.resize((resized_size, resized_size), Image.BILINEAR)
+            canvas = Image.new(
+                'RGB',
+                (self.img_size, self.img_size),
+                color=(self.zoom_out_fill,) * 3,
+            )
+            canvas.paste(resized, (left, top))
+            zoomed_clip.append(canvas)
+
+        actual_scale = resized_size / self.img_size
+        return zoomed_clip, (
+            actual_scale,
+            left / self.img_size,
+            top / self.img_size,
+        )
+
+
+    def apply_zoom_out_bbox(self, target, zoom_params):
+        if zoom_params is None or target.size == 0:
+            return target
+
+        scale, offset_x, offset_y = zoom_params
+        target[..., [0, 2]] = target[..., [0, 2]] * scale + offset_x
+        target[..., [1, 3]] = target[..., [1, 3]] * scale + offset_y
+        return target
+
+
     def apply_bbox(self, target, ow, oh, dx, dy, sx, sy):
         sx, sy = 1./sx, 1./sy
         # apply deltas on bbox
@@ -121,6 +176,9 @@ class Augmentation(object):
         # resize
         video_clip = [img.resize([self.img_size, self.img_size]) for img in video_clip]
 
+        # Zoom-out parameters are shared by the complete temporal clip.
+        video_clip, zoom_params = self.random_zoom_out(video_clip)
+
         # random flip
         flip = random.randint(0, 1)
         if flip:
@@ -135,6 +193,7 @@ class Augmentation(object):
             for i in range(len(target)):
                 if target[i] is not None:
                     target[i] = self.apply_bbox(target[i], ow, oh, dx, dy, sx, sy)
+                    target[i] = self.apply_zoom_out_bbox(target[i], zoom_params)
                     if flip:
                         target[i][..., [0, 2]] = 1.0 - target[i][..., [2, 0]]
                 else:
@@ -149,6 +208,7 @@ class Augmentation(object):
             # process target
             if target is not None:
                 target = self.apply_bbox(target, ow, oh, dx, dy, sx, sy)
+                target = self.apply_zoom_out_bbox(target, zoom_params)
                 if flip:
                     target[..., [0, 2]] = 1.0 - target[..., [2, 0]]
             else:

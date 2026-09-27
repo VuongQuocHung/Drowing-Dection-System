@@ -155,7 +155,7 @@ class DatalistToFiles(LifeguardUtils):
                 os.remove(file)
 
 
-class DataListToSplitlists:
+class DataListToSplitlists(LifeguardUtils):
     
     @classmethod
     def split_data(cls, ratio=0.90, train_only_snippets=[]):
@@ -192,6 +192,101 @@ class DataListToSplitlists:
         # write the training and testing data to CSV files
         df_train['snippet'].to_csv(cls.trainlist_file, index=False, header=False)
         df_test[['snippet', 'label']].to_csv(cls.testlist_file, index=False, header=False)
+
+
+    @classmethod
+    def generate_group_folds(cls, n_splits=5, seed=42, start_fold=10,
+                             overwrite=False):
+        """Create stratified folds without sharing a source video.
+
+        Existing folds 1..9 are intentionally left untouched so their old
+        checkpoints and reported metrics remain reproducible. By default the
+        leakage-free folds are written as 10..14.
+        """
+        try:
+            from sklearn.model_selection import StratifiedGroupKFold
+        except ImportError as exc:
+            raise RuntimeError(
+                "scikit-learn is required; run: pip install -r requirements.txt"
+            ) from exc
+
+        df = pd.read_csv(cls.datalist_file, header=None, dtype=str)
+        df = df[df.iloc[:, -1] == 'y'].copy()
+        df['snippet'] = df.apply(lambda row: cls.snippet_name(*row.iloc[:6]), axis=1)
+        df = df[
+            df['snippet'].apply(
+                lambda name: os.path.isfile(
+                    os.path.join(cls.labels_folder, f'{name}.xml')
+                )
+            )
+        ].reset_index(drop=True)
+
+        if df.empty:
+            raise RuntimeError("No enabled snippets with CVAT XML labels were found.")
+
+        df['label'] = df['snippet'].apply(
+            lambda name: 'd' if cls.snippet_contains_drown(name) else 's'
+        )
+        groups = df.iloc[:, 0]
+        splitter = StratifiedGroupKFold(
+            n_splits=n_splits,
+            shuffle=True,
+            random_state=seed,
+        )
+
+        written = []
+        test_occurrences = {snippet: 0 for snippet in df['snippet']}
+        for offset, (train_indices, test_indices) in enumerate(
+                splitter.split(df['snippet'], df['label'], groups=groups)):
+            fold = start_fold + offset
+            train_path = os.path.join(cls.splitlists_folder, f'{fold}_train.csv')
+            test_path = os.path.join(cls.splitlists_folder, f'{fold}_test.csv')
+            if not overwrite and (os.path.exists(train_path) or os.path.exists(test_path)):
+                raise FileExistsError(
+                    f"Fold {fold} already exists. Pass overwrite=True to replace it."
+                )
+
+            train_df = df.iloc[train_indices]
+            test_df = df.iloc[test_indices]
+            train_groups = set(train_df.iloc[:, 0])
+            test_groups = set(test_df.iloc[:, 0])
+            overlap = train_groups & test_groups
+            if overlap:
+                raise AssertionError(
+                    f"Fold {fold} leaks source videos: {sorted(overlap)}"
+                )
+
+            train_df['snippet'].to_csv(train_path, index=False, header=False)
+            test_df[['snippet', 'label']].to_csv(
+                test_path, index=False, header=False
+            )
+            for snippet in test_df['snippet']:
+                test_occurrences[snippet] += 1
+
+            counts = test_df['label'].value_counts()
+            written.append(
+                {
+                    'fold': fold,
+                    'train_snippets': len(train_df),
+                    'test_snippets': len(test_df),
+                    'train_videos': len(train_groups),
+                    'test_videos': len(test_groups),
+                    'test_drown': int(counts.get('d', 0)),
+                    'test_swim': int(counts.get('s', 0)),
+                }
+            )
+
+        invalid_occurrences = {
+            snippet: count
+            for snippet, count in test_occurrences.items()
+            if count != 1
+        }
+        if invalid_occurrences:
+            raise AssertionError(
+                "Every snippet must occur in exactly one test fold: "
+                f"{invalid_occurrences}"
+            )
+        return written
 
 
     @classmethod
